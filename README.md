@@ -1,4 +1,4 @@
-# V-DdoS<h1 style="color:red" align="center">What is V-DdoS tool?</h1>
+# 🇨🇦BarisflexxQ V-Dos<h1 style="color:red" align="center">What is V-DdoS tool?</h1>
 <div>
 <p style="color:black"><b><i><u>Distributed Denial Of Service</u></i> (DDoS) attacks are a subclass of denial of service (DoS) attacks. A DDoS attack involves multiple connected online devices, collectively known as a botnet, which are used to overwhelm a target website with fake traffic.</b></p>
 <img src="https://cdn.discordapp.com/attachments/870740780938047520/870740893093724240/20210731_005139.jpg">
@@ -17,7 +17,7 @@
 - $ `pkg install python2`
 - $ `pkg install git`
 - $ `pkg install figlet`
-- $ `git clone https://www.github.com/T34mV18rs/V-DdoS.git`
+- $ `git clone https://github.com/lizyangelxdark/networkkiller`
 - $ `cd V-DdoS`
 - $ `chmod +x V-DdoS.py`
 - $ `python2 V-DdoS.py`
@@ -43,11 +43,9 @@
 
 ``(Tap To Redirect)``
 
-[![Github](https://img.shields.io/badge/Facebook-FBGroup-blue?style=for-the-badge&logo=facebook)](https://facebook.com/groups/mohinhossen)
-[![Github](https://img.shields.io/badge/Facebook-FBPAGE-blue?style=for-the-badge&logo=facebook)](https://facebook.com/TeamVirusOfficial)
-[![Github](https://img.shields.io/badge/TELEGRAM-TgGroup-orange?style=for-the-badge&logo=telegram)](https://t.me/Crackerspace)
+[![Github](https://img.shields.io/badge/TELEGRAM-TgGroup-orange?style=for-the-badge&logo=telegram)](https://t.me/alnightstar)
 
 <h3 style="color:purple"> THANKS FOR USING OUR TOOL </h3>
 
-``©T34mV18rs``
+``©barisflexxq``
 
