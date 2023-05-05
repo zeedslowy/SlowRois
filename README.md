@@ -1,4 +1,4 @@
-# 🇨🇦BarisflexxQ V-Dos<h1 style="color:red" align="center">What is V-DdoS tool?</h1>
+# 🇨🇦BarisflexxQ V-Dos Tool,<h1 style="color:red" align="center">What is V-DdoS tool?</h1>
 <div>
 <p style="color:black"><b><i><u>Distributed Denial Of Service</u></i> (DDoS) attacks are a subclass of denial of service collectively known as a botnet,.</b></p>
 <img src="https://resmim.net/cdn/2023/05/06/STWwHk.gif">
