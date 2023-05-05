@@ -21,12 +21,8 @@ bytes = random._urandom(1490)
 os.system("clear")
 os.system("figlet V-DdoS")
 print
-print "Coded By : Mr.BL4Z3"
-print "Author   : T34m V18rs"
-print "Github   : github.com/T34mV18rs"
-print "Fb Page  : facebook.com/TeamVirusOfficial"
-print "FB Group : facebook.com/groups/mohinhossen"
-print "Telegram : t.me/Crackerspace"
+print "Coded By : BARISFLEXXQ"
+print "Telegram : t.me/barisflexx"
 print "Join Cracker Space TG Group To Get Premium Apk(s) Free"
 print "Note- This Tool An Illegal Tool & It's Only For Educational Purpose.. Use It At Your Own Risk,We'll Be Not Responsible For Kind Of Problems"
 print
