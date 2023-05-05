@@ -1,12 +1,12 @@
 # 🇨🇦BarisflexxQ V-Dos<h1 style="color:red" align="center">What is V-DdoS tool?</h1>
 <div>
-<p style="color:black"><b><i><u>Distributed Denial Of Service</u></i> (DDoS) attacks are a subclass of denial of service (DoS) attacks. A DDoS attack involves multiple connected online devices, collectively known as a botnet, which are used to overwhelm a target website with fake traffic.</b></p>
-<img src="https://cdn.discordapp.com/attachments/870740780938047520/870740893093724240/20210731_005139.jpg">
+<p style="color:black"><b><i><u>Distributed Denial Of Service</u></i> (DDoS) attacks are a subclass of denial of service collectively known as a botnet,.</b></p>
+<img src="https://resmim.net/cdn/2023/05/06/STWwHk.gif">
 <p style="color:80% black"><b>This is a python coded tool for ddos attacks.. you can easily give ddos attacks in your target websites with</b> `Termux` <b>in your Android Device!! Just Follow The Steps And Setup Your Tool!! ( Scroll up for more info) </b> 
 <br>
 <h1 align="center" style="color:red">!!Warning!! <h1>
 
-`Note: THIS TOOL IS JUST ONLY FOR EDUCATIONAL PURPOSE..GIVING DDOS ATTACKs WITHOUT SITE OWNER'S PERMISSION IS ILLEGAL.. SO USE IT AT YOUR OWN RISK.. WE'LL BE NOT RESPONSIBLE FOR ANY TYPES OF MISISSUES!!!`
+`Note:!`
 
 <h1 style="color:red" align="center"> How To Install V-DdoS In Termux</h1>
 
