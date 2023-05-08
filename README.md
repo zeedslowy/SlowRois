@@ -18,7 +18,7 @@
 - $ `pkg install git`
 - $ `pkg install figlet`
 - $ `git clone https://github.com/lizyangelxdark/networkkiller`
-- $ `cd V-DdoS`
+- $ `cd networkkiller`
 - $ `chmod +x V-DdoS.py`
 - $ `python2 V-DdoS.py`
 
