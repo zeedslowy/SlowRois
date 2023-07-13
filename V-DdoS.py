@@ -22,10 +22,9 @@ os.system("clear")
 os.system("figlet V-DdoS")
 print
 print "Coded By : BARISFLEXXQ"
-print "Telegram : t.me/barisflexx"
-print "Join Cracker Space TG Group To Get Premium Apk(s) Free"
+print "Telegram : t.me/phantomasistan "Join Cracker Space TG Group To Get Premium Apk(s) Free"
 print "Note- This Tool An Illegal Tool & It's Only For Educational Purpose.. Use It At Your Own Risk,We'll Be Not Responsible For Kind Of Problems"
-print
+print " Instagram : @barisflexxq"
 ip = raw_input("IP Target : ")
 port = input("Port       : ")
 os.system("clear")
