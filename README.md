@@ -1,4 +1,4 @@
-# |🇨🇦BarisflexxQ V-Dos Tool,<h1 style="color:red" align="center">What is V-DdoS tool?</h1>
+# V-Dos Tool,<h1 style="color:red" align="center">What is V-DdoS tool?</h1>
 <div>
 <p style="color:black"><b><i><u>Distributed Denial Of Service</u></i> (DDoS) attacks are a subclass of denial of service collectively known as a botnet,.</b></p>
 <img src="https://resmim.net/cdn/2023/05/06/STWwHk.gif">
@@ -12,21 +12,23 @@
 
 <p><b>The Tool Installation Process Is Very Easy.. Just Open Your Termux & Type This Provided Commands!!</b></p>
 
-- $ `apt update && apt upgrade`
-- $ `pkg install python`
-- $ `pkg install python2`
-- $ `pkg install git`
-- $ `pkg install figlet`
-- $ `git clone https://github.com/lizyangelxdark/networkkiller`
-- $ `cd networkkiller`
-- $ `chmod +x V-DdoS.py`
-- $ `python2 V-DdoS.py`
+```
+- $ apt update && apt upgrade
+- $ pkg install python
+- $ pkg install python2
+- $ pkg install git
+- $ pkg install figlet
+- $ git clone https://github.com/zeedslowy/SlowRois
+- $ cd SlowRois
+- $ chmod +x hammer.py
+- $ python2 hammer.py
+```
+To Run ✈️
+```
+- $ cd SlowRois
+- $ python2 hammer.py
 
-<p><b>To Run</b></p>
-
-- $ `cd V-DdoS`
-- $ `python2 V-DdoS.py`
-
+```
 <p><b><i> Your Tool Install & Setup Done!!..Now Go To Google & Search</i></b>`Website IP Finder`<b><i>Now  Open The 1st Wesite & Place Your Target Website Url e.g. www.biribaba.com..</b></i></p>
 
 <p><b><i>After Getting The Website IP , Copy The IP & Come To The Termux.. Now Paste The Target Website IP On</b></i> `Ip Target:` <b><i>& Give The Port Number</b></i> `8080` </p>
